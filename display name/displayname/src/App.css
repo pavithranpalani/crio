@@ -1,0 +1,9 @@
+.full-name {
+  margin-top: 10px; 
+}
+
+.centered-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
